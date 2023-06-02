@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Cabin+Sketch&family=Cookie&family=Courgette&family=Dancing+Script:wght@700&family=Dongle&family=Oleo+Script&family=Pacifico&family=Pirata+One&family=Rajdhani&family=Shrikhand&family=Tangerine:wght@700&family=Ubuntu&display=swap');
+h1{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+}

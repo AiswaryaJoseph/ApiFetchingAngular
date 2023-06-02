@@ -1,0 +1,9 @@
+.navbar {
+    background: radial-gradient(white,lightblue,darkblue);
+}
+.navbar-brand{
+   width: 363px;
+   /* border:2px solid red; */
+   display: block;
+   margin: auto;
+}
